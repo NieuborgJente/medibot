@@ -1,0 +1,5 @@
+fastapi==0.129.0
+mysql-connector-python==9.6.0
+pydantic==2.12.5
+python-socketio==5.16.1
+uvicorn==0.40.0
